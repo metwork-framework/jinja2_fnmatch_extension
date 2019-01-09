@@ -1,11 +1,7 @@
-<a name=""></a>
-# (unreleased)
+<a name="unreleased"></a>
+## [Unreleased]
 
-
-### Features
-
-* drone support ([2eb127b](https://github.com/metwork-framework/jinja2_fnmatch_extension/commit/2eb127b))
-* first version ([43d9f78](https://github.com/metwork-framework/jinja2_fnmatch_extension/commit/43d9f78))
-
-
+### Feat
+- drone support
+- first version
 
