@@ -1,11 +1,12 @@
 # CHANGELOG
 
 
-## [Unreleased]
+
+## v0.0.2 (2020-01-24)
 
 ### New Features
-- drone support
 - first version
+- drone support
 
 
 
