@@ -16,7 +16,7 @@ from jinja2 import Template, Environment
 env = Environment(extensions=["jinja2_getenv_extension.FnMatchExtension"])
 
 # For the example, we use a template from a simple string
-template = env.from_string("{{ 'foo-bar'|fnmatch('foo-*') }}")
+template = env.from_string("{% raw %}{{ 'foo-bar'|fnmatch('foo-*') }}{% endraw %}")
 result = template.render()
 
 assert result == "True"
