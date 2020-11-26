@@ -13,7 +13,7 @@ The syntax is `|fnmatch(pattern)`.
 from jinja2 import Template, Environment
 
 # We load the extension in a jinja2 Environment
-env = Environment(extensions=["jinja2_getenv_extension.FnMatchExtension"])
+env = Environment(extensions=["jinja2_fnmatch_extension.FnMatchExtension"])
 
 # For the example, we use a template from a simple string
 template = env.from_string("{% raw %}{{ 'foo-bar'|fnmatch('foo-*') }}{% endraw %}")
