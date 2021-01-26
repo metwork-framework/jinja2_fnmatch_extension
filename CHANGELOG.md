@@ -2,10 +2,7 @@
 
 ## v0.0.3 (2020-01-27)
 
-### New Features
-
-- first version
-- drone support
+- No interesting change
 
 ## v0.0.2 (2020-01-24)
 
