@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Unreleased]
+
+### Bug Fixes
+
+- replace deprecated evalcontextfilter (#6)
+
 ## v0.0.3 (2020-01-27)
 
 - No interesting change
