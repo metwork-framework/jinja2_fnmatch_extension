@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## [Unreleased]
+## v0.0.4 (2022-10-11)
 
 ### Bug Fixes
 
