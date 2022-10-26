@@ -12,7 +12,7 @@ setup(
     author="Fabien MARTY",
     author_email="fabien.marty@gmail.com",
     name="jinja2_fnmatch_extension",
-    version="1.0.0",
+    version="1.0.1",
     license="BSD",
     packages=find_packages(),
     install_requires=install_requires,
